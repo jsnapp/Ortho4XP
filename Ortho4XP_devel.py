@@ -23,7 +23,7 @@
 #                                                                            #
 ##############################################################################
 
-version=' devel snapportho4xp test'
+version=' devel snapportho4xp'
 
 import os
 import sys
